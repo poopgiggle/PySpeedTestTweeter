@@ -1,0 +1,3 @@
+python-twitter==2.2
+pyspeedtest==1.2
+arrow==0.7.0
