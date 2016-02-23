@@ -1,6 +1,7 @@
 This is a script that I wrote to track (and tweet) Internet upload/download speeds.
 
 To install this, first install requirements:
+
     pip install -r requirements.txt
 
 Create a file called `pyspeedtestconfig.py` that has all your Twitter API OAuth keys, timezone information,
