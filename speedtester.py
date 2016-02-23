@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 from pyspeedtest import SpeedTest
 from pyspeedtestconfig import credentials, timezone, logfilename
 import twitter
